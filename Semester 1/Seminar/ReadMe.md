@@ -1,4 +1,4 @@
-#PH68245 - Seminar
+# PH68245 - Seminar
 
 Biweekly presentations (2 credit subject)
 
