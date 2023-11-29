@@ -1,4 +1,4 @@
-# PH61013	Principles of Quantum Devices
+# PH61013	- Principles of Quantum Devices
 
 4 credit core course.
 
